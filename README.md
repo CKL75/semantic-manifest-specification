@@ -33,4 +33,4 @@ Live production manifests can be viewed at:
 ## License & Authorship
 
 Semantic Manifest Specification (v0.1) © 2026 by Chris Limner / Hypersonic SEO.
-This work is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE).
+This work is marked with [CC0 1.0 Universal](LICENSE).
