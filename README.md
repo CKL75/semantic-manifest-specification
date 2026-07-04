@@ -3,10 +3,10 @@
 An open data standard and streamable content graph specification (NDJSON) designed to optimize website discovery, content relations, and text ingestion for AI crawlers, LLMs, and RAG engines.
 
 ### The Problem
-Traditional web standards are fundamentally broken for AI search engines at scale. 
-* **Sitemaps** pass raw URLs without structural context.
-* **JSON-LD** is trapped in single-page scopes.
-* **llms.txt** files are flat text that consume massive amounts of context window tokens when scaling to thousands of pages.
+Traditional web standards were not built to support AI search engines at scale. Existing protocols introduce significant friction when handling modern automated ingestion:
+* **Sitemaps** Sitemaps pass raw URLs without structural or relational context.
+* **JSON-LD** JSON-LD is isolated to single-page scopes, preventing site-wide graph synthesis.
+* **llms.txt** llms.txt files rely on flat text, which rapidly consumes critical context window tokens when scaling across thousands of pages.
 
 ### The Solution
 The **Semantic Manifest** bridges this gap. It uses a streamable NDJSON format so AI crawlers can parse an entire site's content types, relational entities, and explicitly designated "markdown twins" line-by-line efficiently.
