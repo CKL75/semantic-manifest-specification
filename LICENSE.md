@@ -25,7 +25,7 @@ Semantic Manifest Specification (v0.1) originally proposed by Chris Limner / Hyp
 For verification of authorship, professional inquiries, or core implementation consulting, please refer to the official profiles below:
 
 * **Website:** [chrisyst.com](https://chrisyst.com)
-* **Reference Implementation:** [hypersonicseo.com](https://hypersonicseo.com)
+* **Reference Implementation:** [structuredpages.com](https://structuredpages.com)
 * **Reference Implementation:** [edustats.app](https://edustats.app)
 * **GitHub Profile:** [github.com/CKL75](https://github.com/CKL75)
 * **LinkedIn Profile:** [linkedin.com/in/chris-limner](https://www.linkedin.com/in/chris-limner/)
