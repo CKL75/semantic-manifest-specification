@@ -28,9 +28,9 @@ This standard is a native, built-in structural component of the High-Velocity Co
 
 Live production manifests can be viewed at:
 * **EduStats (58,000 pages):** [edustats.app/semantic-manifest.jsonl](https://edustats.app/semantic-manifest.jsonl).
-* **Hypersonic SEO Framework:** [hypersonicseo.com/semantic-manifest.jsonl](https://hypersonicseo.com/semantic-manifest.jsonl)
+* **Hypersonic SEO Framework:** [structuredpages.com/semantic-manifest.jsonl](https://structuredpages.com/semantic-manifest.jsonl)
 
 ## License & Authorship
 
-Semantic Manifest Specification (v0.1) © 2026 by Chris Limner / Hypersonic SEO.
+Semantic Manifest Specification (v0.1) © 2026 by Chris Limner / Structured Pages.
 This work is marked with [CC0 1.0 Universal](LICENSE).
